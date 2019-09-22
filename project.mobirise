@@ -8,7 +8,8 @@
       "styling": {},
       "additionalSetColors": [
         "#bc04a3",
-        "#f9ea65"
+        "#f9ea65",
+        "#fae423"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -42,7 +43,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#f9ea65",
+            "color": "#fae423",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://nataka.afrikrea.com/fr\" target=\"_blank\">Boutique</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://fashiondesignerenligne.teachable.com/\" target=\"_blank\">Fashion Boss Club</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Blog</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">À propos</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
@@ -158,7 +159,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#f9ea65",
+            "color": "#fae423",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://nataka.afrikrea.com/fr\" target=\"_blank\">Boutique</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://fashiondesignerenligne.teachable.com/\" target=\"_blank\">Fashion Boss Club</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Blog</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">À propos</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
@@ -208,7 +209,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#f9ea65",
+            "color": "#fae423",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://nataka.afrikrea.com/fr\" target=\"_blank\">Boutique</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://fashiondesignerenligne.teachable.com/\" target=\"_blank\">Fashion Boss Club</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Blog</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">À propos</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
@@ -319,7 +320,7 @@
           "_anchor": "slider-d",
           "_styles": {
             "H2": {
-              "color": "#f9ea65",
+              "color": "#fae423",
               "text-align": "left",
               "font-size": "46px",
               "font-family": "'Montserrat', sans-serif",
@@ -391,7 +392,7 @@
         {
           "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButtons": true,
@@ -406,7 +407,10 @@
             "bgColor": "#fff",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/8dbMRhKlDgk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=8dbMRhKlDgk",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#fff",
@@ -421,7 +425,7 @@
               "title": ""
             },
             "video": {
-              "src": "https://youtu.be/8dbMRhKlDgk",
+              "src": "https://www.youtube.com/watch?v=8dbMRhKlDgk",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on",
@@ -498,7 +502,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#f9ea65",
+            "color": "#fae423",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://nataka.afrikrea.com/fr\" target=\"_blank\">Boutique</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://fashiondesignerenligne.teachable.com/\" target=\"_blank\">Fashion Boss Club</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Blog</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">À propos</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
