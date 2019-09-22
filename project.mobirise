@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 18,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -333,6 +333,124 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/capture-decran-le-2019-09-21-a-21.26.56-1400x750.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>À Propos!",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20190305-193446-640x360.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Join the Fashion Boss Club",
+          "text": "<p>Nous avons crée ce club pour &nbsp;aider les fashion <i>designer</i> en herbe à travers un processus bien structuré. Vous progresserez dans vos business étape par étape selon vos besoins en Accédant instantanément à une bibliothèque de cours approfondis et à des sessions mensuelles de planification d'entreprise en ligne. </p><p>Ce cours de design en ligne pour les créateurs de mode vous convient si:</p><p>- tu as une idée du business de la mode&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-k",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitles": true,
             "showCaptions": true,
@@ -355,7 +473,7 @@
           "title1": "À propos&nbsp;",
           "caption1": "nous avons crée cette formation pour vous aider les fashion designer en herbe à travers un processus bien structuré. Vous progresserez dans vos business étape par étape selon vos besoins en Accédant instantanément à une bibliothèque de cours approfondis et à des sessions mensuelles de planification d'entreprise en ligne.",
           "title2": "Join the FBC (Fashion Boss Club)",
-          "caption2": "This Online design course for fashion designer is suitable for you if : <br>- you have an idea of fashion business&nbsp;<br>- You have a startup business in fashion&nbsp;<br>- You are in croissance&nbsp;",
+          "caption2": "Nous avons crée cette formation pour vous aider les fashion designer en herbe à travers un processus bien structuré. Vous progresserez dans vos business étape par étape selon vos besoins en Accédant instantanément à une bibliothèque de cours approfondis et à des sessions mensuelles de planification d'entreprise en ligne.<br>This Online design course for fashion designer is suitable for you if : <br>- you have an idea of fashion business&nbsp;<br>- You have a startup business in fashion&nbsp;<br>- You are in croissance&nbsp;",
           "title3": "From our Blog&nbsp;",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "À propos&nbsp;",

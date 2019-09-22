@@ -21,6 +21,10 @@
   font-size: 30px;
   font-family: 'Lato', sans-serif;
 }
+#msg-box4-k .lead P {
+  text-align: left;
+  font-size: 13px;
+}
 #content4-6 P {
   color: #bc04a3;
   font-size: 18px;
