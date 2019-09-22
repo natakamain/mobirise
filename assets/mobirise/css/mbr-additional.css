@@ -25,16 +25,12 @@
   text-align: left;
   font-size: 13px;
 }
-#content4-6 P {
-  color: #bc04a3;
-  font-size: 18px;
-}
-#menu-4 .navbar-toggler {
-  color: #000000;
-}
 #msg-box3-h .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-h .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#menu-4 .navbar-toggler {
+  color: #000000;
 }
