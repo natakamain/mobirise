@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+#menu-0 .navbar-toggler {
+  color: #000000;
+}
+#menu-2 .navbar-toggler {
+  color: #000000;
+}
+#menu-3 .navbar-toggler {
+  color: #000000;
+}
+
+
+#slider-d H2 {
+  color: #f9ea65;
+  text-align: left;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-d .btn {
+  font-size: 30px;
+  font-family: 'Lato', sans-serif;
+}
+#content4-6 P {
+  color: #bc04a3;
+  font-size: 18px;
+}
+#menu-4 .navbar-toggler {
+  color: #000000;
+}
+#msg-box3-h .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-h .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
